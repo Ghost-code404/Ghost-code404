@@ -16,7 +16,7 @@ Sou um jovem estudante amante do desenvolvimento web e estou sempre em busca de 
 <code><img height="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png"></code>
 <code><img height="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png"></code>
 
-##Contact Me
+## Contact Me
 
 - <a href="https://www.linkedin.com/in/gabriel-aguiar-994b84199/">Linkedin</a>
 - <a href="mailto:gabriel07aguiar@outlook.com">E-mail</a>
