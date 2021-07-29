@@ -2,7 +2,7 @@
 
 ## About Me
 
-Tenho 20 anos e sou analista na area de Service Desk TI a mais de 1 ano. Atualmente, sou estudante de Ciências da computação na UNIP - Universidade Paulista.
+Tenho 20 anos e sou analista na area de Service Desk TI a mais de 1 ano, buscando oportunidade como Web Developer. Atualmente, sou estudante de Ciências da computação na UNIP - Universidade Paulista.
 Sou um jovem estudante amante do desenvolvimento web e estou sempre em busca de melhorar minhas skills na área.
 
 ## Technologies
